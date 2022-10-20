@@ -32,7 +32,6 @@ io.on('connection',(socket)=>{
             }
             io.emit('onText',obj);
           }
-        console.log(tr.text);
         quickStart();
         
     })
