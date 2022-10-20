@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fit2095ching-yee-selina-wong",
+  "private_key_id": "ec964f2e2fafdd91fecf2879426d9d6ff206a67b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGZ6yzgJfgJch0\nawklgB/rb4cO4dg98lnQ93qa7mEP35VidGvN0TJLd0ewEI7Tl/xXyBTcbsMBkZej\n/pdepTnO0co2xmxQRK60pYM7TKydJYEBp56txTMZPuxFAaW1m7YZI7ThR8LL2CE+\nMurAI+f31Fv4M/uazIeJO5pLSuniOld/mzFc9loaaXh/12AcSxQinZxBUPOmmHKo\nhJocmwTqszxifCYD074NAuWrWf5t5q91G4A5Q2+n+V7n0Fmm50LtVzARfYfPgjgp\n3cE7hURTQ9eoEiAbiTK6lP8ae7soLXJXEHsj1Fqfa5iQjfSpkqMIT+BFn8o8Nuqb\n2iSqbkWDAgMBAAECggEACnu45C/ZFoa4jZoy51sv6enrL3ifIJV5HxxXIJo+4QQA\nfy1v8ss+cT6yDYCvzfNbvyxQbzNKX39YuAQVmHJ6LaOSdTbNIKf4Y+LTnnhXLeMo\n6rRMze67sUuiAqVrIupBgsOLD6o8heEmJISz4wd3/srRjzmj7j0nXjNwMXvvBBKB\nm7uQ/N7m6kvYvocXJPEYkwUUwsBB5XxisVogD/KS4AZc8bMRhmB0q7opadPIdL+H\nbZB49jK7sXws+YprGnb8UzpdPBkduGdItXygMb9hdbT/dOPn1ojM8mnxOBibltDK\n8PdwCHnOhGGnABLsDcHERV8kAzR2vW+KChEt29HycQKBgQDnK63yYFb7Kv3FvIzI\nChSTYsnW7AQDrxSXFShkVpK4kZ0J8b4uFHLVTQMDcBR31skSRDYEt6pcgUKGIRUm\nUoYxSS+M+lUF9DtKEBb3P82uo56AujqaVCrw9XUFOKM5NauPzCwawCb4zVaBBbVk\njE91dOw/gUrp5rBMJ3cSci2PkwKBgQDbtxA/NpcVBG8PG6wOJNmAHMSLq2aK4Iok\nBQzUhBpyxVlNHIZh/RseIxZvBAVGFf1IPa5UjupK6efpydHJgq0VE03DESs067nH\n9WEWeJaPgbPqeQieU8izwED8xl6i1qt/6ncWIpugq4qF2cgz/82X+O+IZPqHNYgJ\nqrhdZGPIUQKBgEBXjv3URMF58NJVrZWMALgZGfbBEEj6NS/sCqcK1aGbnesDpxxq\nQqAN5FXTn07PsH1uEN71Q+ylaZ+tm5ZkB8e2CA8kKgATP2FY4xuEXbpK/jX0H5WO\n8bjJiP2gCwZEYvEOMgRsESzU8kvNC/TlfMRDe/IdCX3a4J0BqwmuT/ITAoGAWCvy\nvStvHeQVnX6BYXuwPRVOWq6CDCFnzmSobXBGHODNoYBc/V3RUBrMmeiHJUUVy7PV\nDeH8a+vKQavYIIHsa5S/lBSDvk0K1Q/H0ni6EwT96o5/wunklR4F9mq096wmTsMM\n3zksMyIkCOsIyLVTEDW6CoZbc38sBJUaP4BV+sECgYEA3r/zu84bYcP7a86EjI9v\nFD5AXbPwXZ7LdGbIG66wo3hJbnJh9CAT8FFm9EIB3o1OwvFPcTiQLFR+JzOzWOSQ\nAuXvG/cMijMRZaVjv2sqrEdEC7l5vs3/kG/l4iMPqxu2eT/+SI9mhUc2xYbacamO\nWIOi2L4d7q8u8CZU2qdX7e8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fit2095@fit2095ching-yee-selina-wong.iam.gserviceaccount.com",
+  "client_id": "118412769531525955793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fit2095%40fit2095ching-yee-selina-wong.iam.gserviceaccount.com"
+}

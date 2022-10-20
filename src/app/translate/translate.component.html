@@ -1,0 +1,43 @@
+<style>
+    table{
+      margin-left:1em ;
+      margin-right:1em;
+      margin-bottom:1em;
+      margin-top:1em;
+    }
+  </style>
+  <h1>FIT 2095</h1>
+  <hr>
+  <form style="margin-left: 1em; margin-right:1em; width:50vw">
+    <div class="form-group">
+      <label>Text</label>
+      <input type="text" class="form-control" name="text1" [(ngModel)]="text1">
+    </div>
+  </form>
+  <form style="margin-left: 1em; margin-right:1em; width:10vw">
+  <label>Select language:</label>
+  <select class="form-select" [(ngModel)]="lang">
+    <option value="fr">French</option>
+    <option value="zh">Chinese</option>
+    <option value="ja">Japanese</option>
+    <option value="ko">Korean</option>
+  </select>
+  <br>
+  <button (click)="sendText()" class="btn btn-primary">Translate</button>
+  <br>
+  </form>
+  <br>
+  <tr *ngFor="let tr of translates; let i=index">
+  <div class="card" style="width: 18rem;">
+    <div class="card-header">
+        From English to {{tr.lang}}
+    </div>
+    <div class="card-body">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Original: {{tr.text}}</li>
+            <li class="list-group-item">Translated: {{tr.translate}}</li>
+          </ul>
+    </div> 
+  </div>
+  <br>
+</tr>
